@@ -15,7 +15,7 @@ class Program
     static void Main()
     {
         Musteri musteri1 = new Musteri();
-        musteri1.AdiSoyadi = "Malik Burak Sarkan ";
+        musteri1.AdiSoyadi = "Malik Burak Sarkan";
     }
 }
 
